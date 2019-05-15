@@ -1,3 +1,4 @@
+/*JS- ShoppingList2*/
 "use strict";
 
 const STORE = [
